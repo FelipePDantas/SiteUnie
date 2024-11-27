@@ -16,11 +16,16 @@ Node.js (version X.X.X or higher)
 npm or yarn
 Installation Steps
 
-Clone this repository:
+1 - Clone this repository:
+
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
-Access the project directory:
+
+2 - Access the project directory:
+
 cd repository-name
-Install dependencies:
+
+3 - Install dependencies:
+
 npm install
 # or
 yarn install
